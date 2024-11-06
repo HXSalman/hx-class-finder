@@ -64,8 +64,8 @@ export default function StudentModal({
 
               <div className="text-center mb-8 relative z-[1]">
                 <div className="inline-block bg-blue-50 rounded-2xl px-8 py-4 mb-3">
-                  <p className="text-blue-500 font-medium">Room Number</p>
-                  <h2 className="text-6xl font-bold text-blue-600 mb-1">
+                  <p className="text-blue-500 font-medium mb-1">Room Number</p>
+                  <h2 className="text-6xl font-bold text-blue-600">
                     {student.roomNo}
                   </h2>
                 </div>
