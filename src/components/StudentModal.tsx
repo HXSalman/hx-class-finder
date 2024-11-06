@@ -64,10 +64,10 @@ export default function StudentModal({
 
               <div className="text-center mb-8 relative z-[1]">
                 <div className="inline-block bg-blue-50 rounded-2xl px-8 py-4 mb-3">
+                  <p className="text-blue-500 font-medium">Room Number</p>
                   <h2 className="text-6xl font-bold text-blue-600 mb-1">
                     {student.roomNo}
                   </h2>
-                  <p className="text-blue-500 font-medium">Room Number</p>
                 </div>
                 <h3 className="text-2xl font-semibold text-gray-700">
                   {student.floorName}
@@ -104,7 +104,7 @@ export default function StudentModal({
 
                 <div className="bg-gray-100 p-4 rounded-xl">
                   <label className="text-sm font-medium text-gray-500 block mb-1">
-                    Class Name
+                    Classroom Name
                   </label>
                   <p className="text-lg font-semibold text-gray-800">
                     {student.class}
