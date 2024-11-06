@@ -75,7 +75,7 @@ export default function StudentModal({
               </div>
 
               <div className="space-y-6 relative z-[1]">
-                <div className="bg-gray-50 p-4 rounded-xl">
+                <div className="bg-gray-100 p-4 rounded-xl">
                   <label className="text-sm font-medium text-gray-500 block mb-1">
                     Student Name
                   </label>
@@ -84,7 +84,7 @@ export default function StudentModal({
                   </p>
                 </div>
 
-                <div className="bg-gray-50 p-4 rounded-xl">
+                <div className="bg-gray-100 p-4 rounded-xl">
                   <label className="text-sm font-medium text-gray-500 block mb-1">
                     IC Number
                   </label>
@@ -93,7 +93,7 @@ export default function StudentModal({
                   </p>
                 </div>
 
-                <div className="bg-gray-50 p-4 rounded-xl">
+                <div className="bg-gray-100 p-4 rounded-xl">
                   <label className="text-sm font-medium text-gray-500 block mb-1">
                     Seat No
                   </label>
@@ -102,7 +102,7 @@ export default function StudentModal({
                   </p>
                 </div>
 
-                <div className="bg-gray-50 p-4 rounded-xl">
+                <div className="bg-gray-100 p-4 rounded-xl">
                   <label className="text-sm font-medium text-gray-500 block mb-1">
                     Class Name
                   </label>
