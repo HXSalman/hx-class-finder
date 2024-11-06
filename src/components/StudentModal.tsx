@@ -51,12 +51,12 @@ export default function StudentModal({
           >
             <Dialog.Panel className="bg-white rounded-3xl p-8 w-full max-w-md shadow-2xl relative overflow-hidden">
               {/* Decorative background elements */}
-              <div className="absolute -top-10 -right-10 w-40 h-40 bg-blue-100 rounded-full opacity-50" />
-              <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-blue-50 rounded-full opacity-50" />
+              <div className="absolute -top-10 -right-10 w-20 h-20 bg-blue-100 rounded-full opacity-50" />
+              <div className="absolute -bottom-10 -left-10 w-20 h-20 bg-blue-50 rounded-full opacity-50" />
 
               <button
                 onClick={onClose}
-                className="absolute top-6 right-6 text-gray-400 hover:text-gray-600 transition-colors p-2 hover:bg-gray-100 rounded-full z-10"
+                className="absolute top-6 right-6 text-gray-400 hover:text-gray-600 bg-gray-100 transition-colors p-2 hover:bg-gray-300 rounded-full z-10"
                 aria-label="Close modal"
               >
                 <XMarkIcon className="h-6 w-6" />
