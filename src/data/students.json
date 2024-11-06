@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "ST001",
+      "name": "Liu Wei",
+      "ic": "010203040506",
+      "roomNo": "505",
+      "floorName": "5th Floor",
+      "class": "Y7 Aristotle"
+    },
+    {
+      "id": "ST002",
+      "name": "Chen Ming",
+      "ic": "020304050607",
+      "roomNo": "505",
+      "floorName": "5th Floor",
+      "class": "Y7 Aristotle"
+    },
+    {
+      "id": "ST003",
+      "name": "Zhang Wei",
+      "ic": "030405060708",
+      "roomNo": "505",
+      "floorName": "5th Floor",
+      "class": "Y7 Aristotle"
+    },
+    {
+      "id": "ST004",
+      "name": "Wang Li",
+      "ic": "040506070809",
+      "roomNo": "505",
+      "floorName": "5th Floor",
+      "class": "Y7 Aristotle"
+    }
+  ]
+}
